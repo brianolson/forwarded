@@ -1,4 +1,4 @@
-package main
+package forwarded
 
 import (
 	"net/http"
